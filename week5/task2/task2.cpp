@@ -1,4 +1,4 @@
-#include<fstream>
+/*#include<fstream>
 #include<iostream>
 
 int main() {
@@ -10,4 +10,4 @@ int main() {
 
     std::cout << if_stream.rdbuf();
     if_stream.close();
-}
+}*/
