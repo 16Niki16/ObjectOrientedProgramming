@@ -19,16 +19,13 @@ public:
 	PlantsBook(PlantsBook&&);
 	PlantsBook operator=(PlantsBook&& obj);
 
-	//methods(getters not used yet)
-	char* getNameOfPlant();
-	char* getLivingPlace();
-	int detDays();
-
 	//methods for A
 	void makingFile(char* filename);
 	void sortOfPlants(char* filename);
 	bool isAlreadySaved(char* filename);
 	void addingNewSpecies(char* filename);
-	void writeInFile(char* filename, int putPosition);
+	void writeInNewFile(char* filename);
+	void temporaryFile(int pPos, char* filename);
+	void copyFile(char* name1, char* name2);
 };
 #endif
