@@ -1,0 +1,15 @@
+sunny:
+gaaalipa
+neutral:
+iaaalipa
+baaalipa
+baaalipa
+shady:
+
+
+
+
+
+
+
+
