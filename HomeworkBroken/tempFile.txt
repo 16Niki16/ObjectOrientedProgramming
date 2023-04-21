@@ -1,0 +1,9 @@
+Plant name: aaaalipa Living place: sunny Watering: 2
+Plant name: baaalipa Living place: neutral Watering: 5
+Plant name: caaalipa Living place: neutral Watering: 555
+Plant name: gaaalipa Living place: sunny Watering: 2
+Plant name: iaaalipa Living place: neutral Watering: 555
+Plant name: raaalipa Living place: neutral Watering: 555
+Plant name: taaalipa Living place: neutral Watering: 555
+Plant name: waaalipa Living place: neutral Watering: 5555
+
