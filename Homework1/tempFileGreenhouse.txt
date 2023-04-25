@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+sunny:
+neutral:
+iaaalipa
+iaaalipa
+iaaalipa
+shady:
+=======
 sunny:
 gaaalipa
 neutral:
@@ -12,3 +20,4 @@ shady:
 
 
 
+>>>>>>> 707bb5d8fa520b41fd0ee7c0dd981773f9f90d44
